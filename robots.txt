@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://du360.github.io/ativanr1ebook001/sitemap.xml
